@@ -1,0 +1,7 @@
+name = "activa"
+main = "worker.js"
+compatibility_date = "2025-01-01"
+
+[[durable_objects.bindings]]
+name = "CHAIN"
+class_name = "Chain"
